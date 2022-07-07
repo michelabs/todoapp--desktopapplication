@@ -1,4 +1,4 @@
-<h1>TodoApp uma aplicação Desktop para agenda de projetos diários</h1>
+<h1>TodoApp - Uma aplicação Desktop para agenda de projetos diários</h1>
 
 Descrição: Aplicação para gerenciamento de projetos e as tarefas envolvidas nesses projetos.<br>
 
